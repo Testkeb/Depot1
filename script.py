@@ -6,3 +6,5 @@ print("la valeur de z=",z)
 tab[10,20,30,40]
 for j in range(len.tab):
     print(tab[j])
+
+print("La taille du tableau est:",len.tab)
